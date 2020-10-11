@@ -1,0 +1,70 @@
+* {
+	margin: 0;
+	padding: 0;
+    border: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+    display:block;
+}
+
+body{
+    width: 85%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Secular One', sans-serif;
+}
+
+header {
+    margin-top: 2%;
+    background-color: #983ec2;
+    color: white;
+    padding: 5%;
+    font-size: 2rem;
+}
+
+h2{
+    padding: 3%;
+    color: #983ec2;
+}
+
+.boxes{
+    display: flex;
+    justify-content: center;
+}
+
+#box-1{
+    background-color: yellow;
+    box-shadow: 15px 15px 30px 2px black;
+    color: #983ec2;
+    font-size: 4rem;
+    padding: 4% 7% 4% 7%;
+    outline-style: solid;
+    outline-width: 15px;
+    outline-color: #983ec2;
+    margin: 3%;
+}
+
+#box-2{
+    background-color: yellow;
+    box-shadow: 15px 15px 30px 2px black;
+    color: #983ec2;
+    font-size: 4rem;
+    padding: 4% 7% 4% 7%;
+    outline-style: solid;
+    outline-width: 15px;
+    outline-color: #983ec2;
+    margin: 3%;
+}
+
+#box-3{
+    background-color: yellow;
+    box-shadow: 15px 15px 30px 2px black;
+    color: #983ec2;
+    font-size: 4rem;
+    padding: 4% 7% 4% 7%;
+    outline-style: solid;
+    outline-width: 15px;
+    outline-color: #983ec2;
+    margin: 3%;
+}
