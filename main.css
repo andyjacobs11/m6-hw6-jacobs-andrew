@@ -68,3 +68,7 @@ h2{
     outline-color: #983ec2;
     margin: 3%;
 }
+
+.hidebutton{
+    display:none;
+}
